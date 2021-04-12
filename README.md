@@ -1,56 +1,28 @@
 # Mix-N-Match
 
 :-------------------------:|
-
-This project deals with ongoing current COVID-19 cases in Delhi state. The Linear Regression Model used for Delhi state COVID-19 cases dataset is used categorically for three different types. "Recovered", "Deceased" and "Confirmed" from 14th March 2020 - 5th Sept 2020. The Dataset used for COVID cases of Delhi state was 
-
----
-## Outline
-
-1. [Introduction](#introduction)
-2. [Literature Survey](#literature-survey)
-3. [Dataset](#dataset)
-   * [Data Preparation and Preprocessing](#data-preparation-and-preprocessing)
-4. [Methodology](#methodology)
-   * [Classification Techniques](#classification-techniques)
-   * [Evaluation](#evaluation)
-5. [Results and Analysis](#results-and-analysis)
-6. [Conclusions](#conclusions)
-7. [References](#references)
-
 ---
 
-### Introduction
+### Abstract
+The aim of this project is to develop a CLI Interface to blend
+two input images. The motivation for this project arose due
 
+to an extremely rare occurrence while capturing your mem-
+ories through photos by almost everyone: the pursuit of the
 
-### Literature Survey
+perfect photo. It is a most common occurrence to find your
+pictures where either your eyes are not open, or you are not
+smiling nicely, or a thousand other issues. We have come at
+a solution to face swap your face from pictures where you
 
+look fantastic on pictures where some disturbance has oc-
+curred. For various purposes, face swapping synthesizing
 
-### Dataset
+is becoming famous. We aim to analyse feature selection
+using image blending techniques and preserve the principal
+parts of the two overlapping images.[2]
 
+Image blending, Gaussian Pyramids, Laplacian Pyra-
+mids, Facial Detection, ORB and CascadeClassifier
 
-[Link to Dataset](https://api.covid19india.org/states_daily.json)
-
-Confusion Matrix   |  
-:-------------------------:|
-![](Plots/conf_mat.png) |
-
-#### Data Preparation and Preprocessing
-
-
-### Methodology
-
-#### Classification Techniques
-
-
-#### Evaluation
-
-
-### Results and Analysis
-
-
-
-### Conclusions
-
-### References
 
